@@ -20,6 +20,8 @@ I took a normalized transactional database for a membership-based auto services 
 
   --> Corporate members aged 50-64 show the highest spending at $479.71, driven primarily by maintenance ($207.76). Across all age groups, Corporate members consistently spend 2x more than Single members, while the 35-49 age band has the largest member base (416 members), representing the best opportunity for tier upgrade campaigns.
 
+03 - Tableau visualizaton (see full write-up)
+
 04 — Cross-sell analysis
 - Maintenance buyers vs non-buyers
 - What share of each group buys each other service
